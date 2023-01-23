@@ -46,6 +46,20 @@ blockquote, q {
 		content: none;
 	}
 
+.para1{
+	display: flex;
+	justify-items: center;
+
+	justify-content: center;
+	color: #330033;
+}
+.para2{
+	color: #8000ff;
+	position: absolute;
+	right: 0;
+	margin-right: 5%;
+}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
