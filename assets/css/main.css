@@ -47,11 +47,18 @@ blockquote, q {
 	}
 
 .para1{
+	font-size: 25px;
+	font-weight: bold;
 	display: flex;
 	justify-items: center;
 
 	justify-content: center;
 	color: #330033;
+	
+	padding-top: 25px;
+	padding-bottom: 25px; 
+	border-top: 1px solid #e0ebeb;
+	border-bottom: 1px solid #e0ebeb;
 }
 .para2{
 	color: #8000ff;
